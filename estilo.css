@@ -1,0 +1,47 @@
+/* todos os imports tem de ser colocados no inicio */
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Playwrite+AR:wght@100..400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Noto+Sans+JP:wght@100..900&family=Playwrite+AR:wght@100..400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Noto+Sans+JP:wght@100..900&family=Playwrite+AR:wght@100..400&family=Playwrite+AT:ital,wght@0,100..400;1,100..400&display=swap');
+
+body{
+    background-color: rgb(250, 250, 250);
+}
+
+.figura{
+    width: 1000px;
+}
+
+/* class para configuração de fonte */
+.fonte{
+    color: rgb(0, 0, 0);
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-size: 40px;
+}
+
+.fonte2{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+.figura2{
+    width: 70px;
+}
+
+.fonte3{
+    font-family: "Playwrite AR", cursive;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+.fonte4{
+    font-family: "Playwrite AT", cursive;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
